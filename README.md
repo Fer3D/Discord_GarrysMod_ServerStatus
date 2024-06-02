@@ -2,7 +2,7 @@
 Script que permite obtener el estado de un servidor de Gmod gracias a un bot de Discord con nodeJS.
 
 ## 👀 Vista previa
-![alt text](https://github.com/Fer3D/Discord_GarrysMod_ServerStatus/blob/main/preview.PNG?raw=true)
+![alt text](https://github.com/Fer3D/Discord_GarrysMod_ServerStatus/blob/main/preview.png?raw=true)
 
 ## 🛠 Instalación
 - Copia los archivos de este repositorio en el archivo del servidor
